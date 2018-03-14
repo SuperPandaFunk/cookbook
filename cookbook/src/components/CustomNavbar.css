@@ -30,3 +30,7 @@ nav.navbar, .nav-bar-default {
 .navbar-default .navber-bramd:focus, .navbar-default .navbar-brand:hover{
     color: white;
 }
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
