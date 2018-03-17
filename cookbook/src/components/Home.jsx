@@ -8,8 +8,8 @@ class Home extends Component {
         return (
         <Grid>
             <Jumbotron>
-                <h2>Welcome to Code</h2>
-                <p>This is to create</p>
+                <h2>Test</h2>
+                <p>Test</p>
             </Jumbotron>
             <Link to="/about">
             <Button bsStyle="primary"> About</Button>
